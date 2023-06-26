@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="mail">Introduce tu email</string>
+    <string name="boton">IR AL SITIO</string>
+</resources>
